@@ -1,2 +1,3 @@
 # pihole-updatescript
-Bash Update Script for Pihola Adblocker
+
+Bash Update-Script for the Pihole Adblocker
