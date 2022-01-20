@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Fileversion V2 / pihole_update_v2.sh
+# Fileversion / pihole_update.sh
 
 # Das Programm stopt die Service's im Zusammenhang mit den Pihole Subsystemen
 # anschliessend wird zuerst das Betriebssystem und danach das Pihole System updatet.
